@@ -1,7 +1,5 @@
-# Rlipids
-Lipids and biodiesels calculations libraries for R.
-
-This is a draft for an R package dedicated to the calculation of lipids chemical and physical properties as well as the inference of biodiesel fuel properties based on verified computational models.
+# Rbiodiesel
+This is a draft for an R package dedicated to the calculation of lipids chemical and biodiesel properties as well as the inference of biodiesel fuel properties based on verified computational models.
 
 ## Chemical properties 
 * [Acid value](https://en.wikipedia.org/wiki/Acid_value)
